@@ -1,9 +1,3 @@
-Hi, I’m agsurfer2.
-I’m interested in game development.
-I’m currently learning C++, C# and Unity.
-You can see my games on itch.io (https://skelebyte.itch.io/).
+Cool guy doing cool things with C/C++ and various other languages using tools such as Unity, Unreal Engine, and Godot.
 
-<!---
-agsurfer2/agsurfer2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<figure><embed src="https://wakatime.com/share/@Skelebyte/c0e0201e-7a64-45fb-b41b-aaec6e15be34.svg"></embed></figure>
