@@ -9,6 +9,6 @@
 
 ### Currently working on...
 
-<a href="https://github.com/Skelebyte/CWindow">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skelebyte&repo=CWindow&theme=dracula" />
+<a href="https://github.com/Skelebyte/MinWinLib">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skelebyte&repo=MinWinLib&theme=dracula" />
 </a>
