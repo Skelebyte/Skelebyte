@@ -12,3 +12,5 @@
 <a href="https://github.com/Skelebyte/MinWinLib">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skelebyte&repo=MinWinLib&theme=dracula" />
 </a>
+<p />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=skelebyte" alt="skelebyte" /> </p>
