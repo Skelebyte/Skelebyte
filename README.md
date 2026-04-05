@@ -1,7 +1,6 @@
-# 💫 About Me:
-Learning game dev since 2020
-
-Working on a game engine written in C++ called SLAM.
+<h3 align="center">
+    Doing cool stuff in C/C++ and a bit of Rust sometimes
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge" alt="OpenGL"/>
