@@ -1,6 +1,15 @@
-<h3 align="center">
+<h1 align="center">
     Doing cool stuff in C/C++ and a bit of Rust sometimes
 </h3>
+
+<h2 align="center">
+    Current Project
+</h2>
+<div align="center">
+  <a href="https://github.com/Skelebyte/slam">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Skelebyte&repo=slam&theme=gruvbox" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge" alt="OpenGL"/>
