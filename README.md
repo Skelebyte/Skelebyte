@@ -19,4 +19,10 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <a href="https://skelebyte.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"/></a>
 </p>
+
+<h6 align="center">
+    Time spent programming
+</h6>
 <p align="center"> <img src="https://wakatime.com/badge/user/ebdd5199-39f1-41e1-aa46-73f4e53797cb.svg" alt="total hrs coded"/> </p>
+
+<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Skelebyte/65e42863-9dcf-494b-8ab2-54c732a10054.png" /></a> </p>
