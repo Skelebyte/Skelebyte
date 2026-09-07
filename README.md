@@ -2,15 +2,6 @@
     Doing cool stuff in C/C++ and a bit of Rust sometimes
 </h3>
 
-<!-- <h2 align="center">
-    Current Project
-</h2>
-<div align="center">
-  <a href="https://github.com/Skelebyte/slam">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Skelebyte&repo=slam&theme=gruvbox" />
-  </a>
-</div> -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge" alt="OpenGL"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -25,4 +16,4 @@
 </h6>
 <p align="center"> <img src="https://wakatime.com/badge/user/ebdd5199-39f1-41e1-aa46-73f4e53797cb.svg" alt="total hrs coded"/> </p>
 
-<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Skelebyte/65e42863-9dcf-494b-8ab2-54c732a10054.png" /></a> </p>
+<p align="center"> <img src="https://wakatime.com/share/@Skelebyte/e726c14b-b6d4-473f-a814-da5631e7fc45.svg"> </p>
